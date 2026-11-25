@@ -1,3 +1,4 @@
+# Day 72 practice
 import random
 from datetime import datetime
 import json
